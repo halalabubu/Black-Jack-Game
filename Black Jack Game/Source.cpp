@@ -1,6 +1,6 @@
 //Jonathan Cookson
 //Final Project for CIS 7
-
+//Black Jack Game
 #include <SFML/Graphics.hpp>
 #include "Game.h"
 #include "MainMenu.h"
