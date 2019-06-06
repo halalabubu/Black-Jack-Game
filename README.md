@@ -1,10 +1,16 @@
 Blackjack Game
 Description: This program is a graphical representation of blackjack. It allows moves such as surrendering, hitting, doubling, and staying.
+
 Installation: To build this program you will need to download SFML 2.5.1 or newer and build it for your version of visual studio or whatever compiler you use. In the case you use visual studio the directory should appear as follows: C:\Code\SFML-build\
+
 Usage: Once you are in game you are presented with a few options: hit, stay, double, or surrender. In the case you have an ace you can change its value by clicking the card. Hit will draw another card, stay will let the dealer finish their draws, double will double the bet and draw only one card, and surrender will forfeit the round but only lose half the bet.
+
 THE GAME WILL CRASH once the cards have run out. This is intended and in no way impedes the game until that point is reached. This is temporary until a method of creating a new deck is implemented.
+
 If you want to contribute to the program, feel free to.
+
 Credits: halalabubu and the SFML team
+
 Licensing who-hah:
         GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
