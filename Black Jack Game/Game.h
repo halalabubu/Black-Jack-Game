@@ -5,7 +5,6 @@
 #include <string>
 #include"TextureManager.h"
 
-
 class GameState;
 
 class Game
