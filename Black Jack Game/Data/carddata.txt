@@ -1,0 +1,72 @@
+<Heart>
+	Yoffset	0
+	color	red
+	card1	values 1 11
+	card2	value 2
+	card3	value 3
+	card4	value 4
+	card5	value 5
+	card6	value 6
+	card7	value 7
+	card8	value 8
+	card9	value 9
+	card10	value 10
+	card11	value 10
+	card12	value 10
+	card13	value 10
+</Heart>
+<Clubs>
+	Yoffset	64
+	color	black 
+	card1	values 1 11
+	card2	value 2 
+	card3	value 3
+	card4	value 4
+	card5	value 5
+	card6	value 6
+	card7	value 7
+	card8	value 8
+	card9	value 9
+	card10	value 10
+	card11	value 10
+	card12	value 10
+	card13	value 10
+</Clubs>
+<Spades>
+	Yoffset	128
+	color	black
+	card1	values 1 11
+	card2	value 2
+	card3	value 3
+	card4	value 4
+	card5	value 5
+	card6	value 6
+	card7	value 7
+	card8	value 8
+	card9	value 9
+	card10	value 10
+	card11	value 10
+	card12	value 10
+	card13	value 10
+</Spades>
+<Diamond>
+	Yoffset	192
+	color	black
+	card1	values 1 11
+	card2	value 2
+	card3	value 3
+	card4	value 4
+	card5	value 5
+	card6	value 6
+	card7	value 7
+	card8	value 8
+	card9	value 9
+	card10	value 10
+	card11	value 10
+	card12	value 10
+	card13	value 10
+</Diamond>
+<cardsize>
+	x	32
+	y	64
+</cardsize>
