@@ -1,10 +1,10 @@
-<p>Blackjack Game<p/>
-# Description: 
+<h1>Blackjack Game</h1>
+<h3>Description: </h3>
 <p>This program is a graphical representation of blackjack. It allows moves such as surrendering, hitting, doubling, and staying.<p/>
-# Installation: 
+<h3> Installation: </h3>
 <p>The only build requirement is <a href="https://www.sfml-dev.org/download/sfml/2.5.1/">SFML 2.5.1.</a>
 <p/>
-#Usage: 
+<h3>Usage: </h3>
 <p>Once you are in game you are presented with a few options: hit, stay, double, or surrender. In the case you have an ace you can change its value by clicking the card. Hit will draw another card, stay will let the dealer finish their draws, double will double the bet and draw only one card, and surrender will forfeit the round but only lose half the bet.<p/>
 <p>
 THE GAME WILL CRASH once the cards have run out. This is intended and in no way impedes the game until that point is reached. This is temporary until a method of creating a new deck is implemented.
